@@ -11,10 +11,7 @@ a {
 a:hover {
     text-decoration: underline;
     color: #E5E7EB;
-}
-
-.nav-link:hover {
-    color: #F9FAF8;    
+    cursor: pointer;
 }
 
 body {
@@ -180,6 +177,7 @@ li, ul {
 .CTA:hover {
     background-color: #E5E7EB;
     color: #3882f6;
+    cursor: pointer;
 }
 
 .banner-button {
